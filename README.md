@@ -1,6 +1,6 @@
 ## Hi there, I'm Talha (Technotherapist) 👋
 
-I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
+I am a Mobile App & Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Developer+with+1%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Passionate+about+Making+Web+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
@@ -8,19 +8,19 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.instagram.com/syed_uzair1113/">
+<a href="https://www.instagram.com/talha_chishti78/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/syed-uzair-hassan-503640246/">
+<a href="https://www.linkedin.com/in/talha-chishti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100012057458839">
+<a href="https://www.facebook.com/talham7800/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://dev.to/syeduzair42101">
+<a href="https://dev.to/talham7800">
     <img src="https://img.shields.io/badge/DEV_COMMUNITY-FE7A16?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 </div>
